@@ -69,7 +69,7 @@ Install Archicad for Linux client:
 
 1.) Check my GitHub-Documentation (Still in Progress)!
 
-2.) Open your web browser and log into the Archicad website.
+2.) Open your web browser and log into the [Archicad website](https://graphisoftid.graphisoft.com/Account/ServiceLogin?Application=GRAPHISOFT&ReturnUrl=https://graphisoft.com/de/archicad).
 
 3.) Download the installation file.
 
