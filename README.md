@@ -1,3 +1,9 @@
+>[!WARNING]
+>The transfer of all repositories to my [Codeberg account](https://codeberg.org/cryinkfly) is currently ongoing. In the future, this project will be continued on https://codeberg.org/cryinkfly/Archicad-on-Linux!
+
+---
+
+
 ![archicad-github-banner](https://user-images.githubusercontent.com/79079633/148689482-3e3474ad-0770-4317-b001-00098a17ea2d.png)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/cryinkfly/Archicad-for-Linux?style=for-the-badge)
